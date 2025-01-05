@@ -22,6 +22,8 @@ const HomePage = () => {
        <Link to ='/usecallback'> <button style={buttonstyles}>UseCallback</button></Link>   
        <Link to ='/functioncomponent'> <button style={buttonstyles}>Functional Component</button></Link>
        <Link to ='/classcomponent'> <button style={buttonstyles}>Class Component</button></Link>
+       <Link to ='/useContext'> <button style={buttonstyles}>Use Context </button></Link>
+       <Link to ='/hoc'> <button style={buttonstyles}>HOC</button></Link>
 
     </div>
     </>
